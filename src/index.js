@@ -1,7 +1,3 @@
-import {
-  getRndInteger,
-  getRandomColorCode
-} from "./functions/helpers.js";
 import { Owner } from "./core/owner.js";
 
 const cnv = document.querySelector("canvas");

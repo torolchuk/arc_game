@@ -84,6 +84,6 @@ typings/
 package_lock.json
 
 # End of https://www.gitignore.io/api/node
-dist/bundle.js
+.parcel-cache
 game.zip
 assets/.DS_Store
